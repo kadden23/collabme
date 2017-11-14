@@ -1,0 +1,121 @@
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family:Raleway;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+li{
+    list-style-type: disc;
+    font-family: Raleway;
+    
+}
+
+.pure-g, .pure-u-1-3{
+    margin: 0;
+    text-align: center;
+}
+
+#section1{
+    
+background-color: #91C7F3;
+color:white;
+height: 100vh;
+}
+
+#section2{
+color:#333;
+background-color: #0f335a;
+height: 100vh;
+}
+
+#section2 img{
+    width: 20%
+    
+}
+
+
+
+.pure-menu {
+    background-color: #1B2A40;
+    font-size: 25px;
+    color:white;
+    border: none;
+    margin:none;
+}
+
+.pure-menu a {
+    color: white; 
+}
+.pure-menu a:hover {
+    color:#1B2A40;
+    background-color: lightgrey;
+}
+
+ul li {
+    text-align: right;
+}
+
+#brand{
+    text-align: left;
+}
+
+.about_me img {
+    
+width: 100%;
+}
+
+
+
+
+.title_bar{
+    height: 100px;
+    padding-top:0px;
+    padding-bottom;0px;
+    text-align: center;
+    background-color: palegreen;
+    
+    
+}
+
+
+
+.pure-table{
+align-content: center;
+
+}
+
+th{
+    text-align: center;
+    
+}
+
+
+h1{
+    font-family:Bujole;
+    
+}
+
+
+h2{
+    
+    
+}
+
+.links a { 
+    color: skyblue;
+    
+}
+
+.footer {
+    background-color: #1B2A40;
+    color:white;
+    padding:20px;
+}
